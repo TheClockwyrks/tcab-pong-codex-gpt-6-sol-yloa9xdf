@@ -1,0 +1,15 @@
+[[media]]
+file = "rally.png"
+name = "A rally through the turning obstacles"
+
+[[media]]
+file = "rally.json.gz"
+name = "Three seconds of live play"
+
+[[media]]
+file = "title.png"
+name = "The Carom title screen"
+
+[[media]]
+file = "pause.png"
+name = "A match paused between shots"
